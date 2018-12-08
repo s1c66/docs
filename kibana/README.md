@@ -16,8 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`6.5.2` (*6/Dockerfile*)](https://github.com/docker-library/kibana/blob/bc610048989693a2a668b65363e707d737c8536c/6/Dockerfile)
--	[`5.6.13`, `5.6`, `5` (*5/Dockerfile*)](https://github.com/docker-library/kibana/blob/52bb5b8b2f675befe52e370153dda288c83d09e9/5/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `kibana` does not support the currently selected architecture (`arm32v7`).
 
 # Quick reference
 
